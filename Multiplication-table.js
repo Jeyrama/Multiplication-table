@@ -23,3 +23,5 @@ multiplicationTable = function(size) {
   }
   return result
 }
+
+// or
